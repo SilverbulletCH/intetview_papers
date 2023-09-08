@@ -10,3 +10,8 @@
 ```bash
 pip install -r requirements.txt
 ```
+
+
+
+
+GitHub关联pycharm
